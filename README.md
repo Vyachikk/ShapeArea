@@ -6,6 +6,7 @@
 
 ## Ответ на третий вопрос:
 
+```
 SELECT 
     p.ProductName,
     c.CategoryName
@@ -15,9 +16,11 @@ LEFT JOIN
     ProductCategories pc ON p.ProductID = pc.ProductID -- Информация о категориях, если она есть
 LEFT JOIN 
     Categories c ON pc.CategoryID = c.CategoryID; -- Имена категорий
+```
 
 ## Можно пойти немного иным способом и создать временную таблицу, которая будет содержтьназвание продукта и его категорию
 
+```
 CREATE VIEW ProductTemp AS
 SELECT 
     p.ProductName,
@@ -30,3 +33,4 @@ LEFT JOIN
     Categories c ON pc.CategoryID = c.CategoryID; -- Имена категорий
 
 SELECT * FROM ProductTemp;
+```
