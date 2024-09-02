@@ -1,0 +1,11 @@
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\bin\Debug\net8.0\GeometryLib.deps.json
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\bin\Debug\net8.0\GeometryLib.dll
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\bin\Debug\net8.0\GeometryLib.pdb
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\GeometryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\GeometryLib.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\GeometryLib.AssemblyInfo.cs
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\GeometryLib.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\GeometryLib.dll
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\refint\GeometryLib.dll
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\GeometryLib.pdb
+C:\Users\Vyacheslav\source\repos\GeometryArea\GeometryLib\obj\Debug\net8.0\ref\GeometryLib.dll

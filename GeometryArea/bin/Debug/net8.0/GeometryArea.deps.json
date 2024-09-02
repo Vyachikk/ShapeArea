@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GeometryArea/1.0.0": {
+        "dependencies": {
+          "GeometryLib": "1.0.0"
+        },
+        "runtime": {
+          "GeometryArea.dll": {}
+        }
+      },
+      "GeometryLib/1.0.0": {
+        "runtime": {
+          "GeometryLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometryArea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometryLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
